@@ -1,0 +1,49 @@
+{
+  "home": {
+    "title": "ISBASAC - Transporte y Alquiler de Equipos",
+    "button": "Solicitar Cotización"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Nosotros",
+    "services": "Servicios",
+    "equipment": "Equipos",
+    "transport": "Transporte",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "faq": "FAQs"
+  },
+  "hero": {
+    "title": "Transporte seguro y confiable para la construcción",
+    "subtitle": "Brindamos servicios especializados en transporte de asfalto, maquinaria y equipos para proyectos viales.",
+    "button": "Solicitar cotización"
+  },
+  "footer": {
+    "contact": "Contacto",
+    "followUs": "Síguenos en nuestras redes sociales",
+    "newsletter": "Suscríbete a nuestro boletín",
+    "subscribe": "Suscribirse",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "gallery": {
+    "title": "Galería de Proyectos",
+    "description": "Conoce nuestros trabajos y la calidad de nuestros servicios de transporte.",
+    "viewMore": "Ver más"
+  },
+  "faqs": {
+    "title": "Preguntas Frecuentes",
+    "description": "Resuelve tus dudas sobre nuestros servicios de transporte y alquiler.",
+    "question1": "¿Qué tipo de transporte ofrecen?",
+    "answer1": "Ofrecemos transporte especializado de asfalto, maquinaria pesada, implementos y equipos para construcción vial.",
+    "question2": "¿Cómo puedo solicitar una cotización?",
+    "answer2": "Puedes solicitar cotización a través de nuestra página web o contactándonos directamente por teléfono o email."
+  },
+  "about": {
+    "title": "Sobre ISBASAC",
+    "description": "ISBASAC es una empresa peruana especializada en servicios de transporte y alquiler de equipos para empresas públicas y privadas del sector construcción. Con años de experiencia, nos dedicamos al transporte especializado para proyectos de construcción, mantenimiento y mejoramiento de carreteras.",
+    "mission": "Nuestra misión es brindar servicios de transporte seguros y confiables, utilizando equipos de calidad y personal capacitado para satisfacer las necesidades de nuestros clientes en el sector construcción.",
+    "vision": "Ser la empresa líder en transporte especializado para construcción vial en el Perú, reconocida por nuestra seguridad, confiabilidad y excelencia en el servicio.",
+    "values": "Nuestros valores incluyen la seguridad en todas nuestras operaciones, la confiabilidad en nuestros servicios, la calidad en nuestros equipos y el compromiso con la satisfacción del cliente."
+  }
+}
